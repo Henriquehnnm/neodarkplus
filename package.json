@@ -1,0 +1,39 @@
+{
+  "name": "neodark-plus",
+  "displayName": "Neodark+",
+  "description": "A better and more comfortable version of Dark+ with smooth contrast and elegant colors",
+  "version": "0.0.1",
+  "publisher": "henriquehnnm",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henriquehnnm/neodarkplus"
+  },
+  "bugs": {
+    "url": "https://github.com/henriquehnnm/neodarkplus/issues"
+  },
+  "homepage": "https://github.com/henriquehnnm/neodarkplus",
+  "keywords": [
+    "theme",
+    "dark",
+    "vscode",
+    "neodark+",
+    "neodark",
+    "dark+",
+    "custom theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neodark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neodark+-color-theme.json"
+      }
+    ]
+  }
+}
