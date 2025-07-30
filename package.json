@@ -2,7 +2,7 @@
   "name": "neodark-plus",
   "displayName": "Neodark+",
   "description": "A better and more comfortable version of Dark+ with smooth contrast and elegant colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "henriquehnnm",
   "engines": {
     "vscode": "^1.102.0"
