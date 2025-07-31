@@ -1,8 +1,8 @@
 {
-  "name": "neodark-plus",
-  "displayName": "Neodark+",
-  "description": "A better and more comfortable version of Dark+ with smooth contrast and elegant colors",
-  "version": "1.0.1",
+  "name": "Neo-plus",
+  "displayName": "Neo+",
+  "description": "Neo+ Theme Pack — A sleek collection of dark themes for VS Code",
+  "version": "1.2.0",
   "publisher": "henriquehnnm",
   "engines": {
     "vscode": "^1.102.0"
@@ -13,20 +13,23 @@
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Henriquehnnm/neodarkplus"
+    "url": "https://github.com/Henriquehnnm/neoplus"
   },
   "bugs": {
-    "url": "https://github.com/henriquehnnm/neodarkplus/issues"
+    "url": "https://github.com/henriquehnnm/neoplus/issues"
   },
-  "homepage": "https://github.com/henriquehnnm/neodarkplus",
+  "homepage": "https://github.com/henriquehnnm/neoplus",
   "keywords": [
     "theme",
     "dark",
     "vscode",
     "neodark+",
     "neodark",
+    "neokai",
     "dark+",
-    "custom theme"
+    "custom theme",
+    "material",
+    "kai"
   ],
   "contributes": {
     "themes": [
@@ -34,6 +37,11 @@
         "label": "Neodark+",
         "uiTheme": "vs-dark",
         "path": "./themes/Neodark+-color-theme.json"
+      },
+      {
+        "label": "Neokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neokai-color-theme.json"
       }
     ]
   }
