@@ -2,7 +2,7 @@
   "name": "Neo-plus",
   "displayName": "Neo+",
   "description": "Neo+ Theme Pack — A sleek collection of dark themes for VS Code",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "publisher": "henriquehnnm",
   "engines": {
     "vscode": "^1.102.0"
